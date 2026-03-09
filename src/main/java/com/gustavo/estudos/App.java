@@ -8,6 +8,7 @@ public class App
     {
         Vaca louca = new Vaca('d', 12);
         louca.mugir();
+        louca.mugir();
 
 
     }
