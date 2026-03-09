@@ -1,13 +1,14 @@
 package com.gustavo.estudos;
 
-/**
- * Hello world!
- *
- */
+import com.gustavo.estudos.model.Vaca;
+
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        Vaca louca = new Vaca('d', 12);
+        louca.mugir();
+
+
     }
 }
