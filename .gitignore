@@ -1,0 +1,11 @@
+# Compilados do Java
+*.class
+target/
+
+# Arquivos do Neovim/LSP
+.lsp/
+.jdtls/
+
+# Logs e arquivos do sistema
+*.log
+.DS_Store
